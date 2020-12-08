@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "node-chat-server",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
